@@ -65,6 +65,18 @@ You can create new collections in an existing database.
 
 .. include:: /includes/steps/create-collection.rst
 
+Working with procedure and step directives directly:
+
+.. procedure::
+   :style: normal
+
+   .. step:: Click the :guilabel:`Create Collection` button.
+
+      From the :guilabel:`Collections` screen, click the
+      :guilabel:`Create Collection` button.
+
+   .. step:: Click :guilabel:`Create Collection` to create the collection.
+
 .. _drop-collection:
 
 Drop a Collection
