@@ -54,10 +54,10 @@ Documents are individual records in a MongoDB :ref:`collection
    
    .. input::
       :language: javascript
-      :emphasize-lines: 2
+      :emphasize-lines: 1
 
-      import beep
-      import boop
+      import BEEP
+      import BOOP
    
    .. output::
       :language: python
@@ -65,6 +65,13 @@ Documents are individual records in a MongoDB :ref:`collection
 
       beepboop
       idk
+   
+   .. output::
+      :language: python
+      :emphasize-lines: 1
+
+      BEEPBOOP
+      IDK
 
 .. _documents-tab:
 
