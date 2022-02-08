@@ -9,6 +9,22 @@ Manage Documents
 Documents are individual records in a MongoDB :ref:`collection
 <collection-tab>` and are the basic unit of data in MongoDB.
 
+.. io-code-block::
+
+   .. input::
+      :language: python
+      :emphasize-lines: 2
+
+      import beep
+      import boop
+   
+   .. output::
+      :language: python
+      :emphasize-lines: 1
+
+      beepboop
+      idk
+
 .. _documents-tab:
 
 From the :guilabel:`Documents` tab, you can
