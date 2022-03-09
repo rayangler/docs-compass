@@ -27,6 +27,13 @@ or sharded cluster host.
 If you need to install |compass-short|, see
 :ref:`download-install` for instructions.
 
+.. video:: https://youtu.be/YBOiX8DwinE
+
+.. video:: https://docs.mongodb.com/realm/
+
+.. video:: https://youtu.be/thisisnotav
+
+
 Considerations
 --------------
 
